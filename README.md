@@ -47,6 +47,11 @@ https://www.youtube.com/watch?v=K-fI2BeTLkk
 
 https://www.youtube.com/watch?v=m6VTnYRC0C4
 
+![Image alt](https://i.ytimg.com/vi/5_cjhSXSGBY/hqdefault.jpg)
+* [24 сент. 2013 г] Финансовая математика. Чем занимаются гении на бирже?»
+https://www.youtube.com/watch?v=5_cjhSXSGBY
+
+
 * ebuilds Hive для Gentoo. Сборка из исходников Hive в Gentoo : : BigdataOverlay
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/dev-db/apache-hive-bin/apache-hive-bin-2.1.1.ebuild
