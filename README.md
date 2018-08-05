@@ -1,8 +1,8 @@
-# ebuilds  tensorflow  для Gentoo. Установка  tensorflow в Gentoo 
+Experimental Gentoo overlay with primary focus on AI frameworks, GPU acceleration, BigData and high-performance Java.
+
+* ebuilds  tensorflow  для Gentoo. Установка  tensorflow в Gentoo 
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/ai-frameworks/tensorflow/tensorflow-9999.ebuild
-
-Experimental Gentoo overlay with primary focus on AI frameworks, GPU acceleration, BigData and high-performance Java.
 
 # ebuilds  Caffe для Gentoo. Установка Caffe в Gentoo : : BigdataOverlay
 
