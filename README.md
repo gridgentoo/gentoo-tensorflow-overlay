@@ -4,7 +4,7 @@ Apache Mesos — это централизованная отказоустой�
 
 ![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
 
-* ebuilds  Apache Mesos  для Gentoo. Установка  tensorflow в Gentoo 
+* ebuilds  Apache Mesos  для Gentoo. Установка  Apache Mesos в Gentoo 
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/sys-cluster/mesos/mesos-1.5.0.ebuild
 
