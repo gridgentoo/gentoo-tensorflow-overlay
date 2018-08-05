@@ -4,7 +4,7 @@ Apache Mesos — это централизованная отказоустой�
 
 ![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
 ![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
-
+![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
 
 * ebuilds  Apache Mesos  для Gentoo. Установка  Apache Mesos в Gentoo 
 
