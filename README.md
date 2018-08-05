@@ -1,6 +1,6 @@
 # ArchenROOT Gentoo Overlay
 
-[![Build Status](https://travis-ci.org/archenroot/gentoo-overlay.svg?branch=master)](https://travis-ci.org/archenroot/gentoo-overlay)
+https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/ai-frameworks/tensorflow/tensorflow-9999.ebuild
 
 Experimental Gentoo overlay with primary focus on AI frameworks, GPU acceleration, BigData and high-performance Java.
 
