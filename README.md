@@ -42,12 +42,10 @@ https://www.youtube.com/watch?v=K-fI2BeTLkk
 ![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
 ![Image alt](https://i.pinimg.com/originals/a3/5b/e6/a35be6015a30a30c578fce916ba842df.png)
 
-![Image alt](https://i.ytimg.com/vi/m6VTnYRC0C4/maxresdefault.jpg)
 * [16 окт. 2017 г] Коллега по java, Ильзар Ахмедов, Открытие встречи «Яндекс изнутри».
 
 https://www.youtube.com/watch?v=m6VTnYRC0C4
 
-![Image alt](https://i.ytimg.com/vi/5_cjhSXSGBY/hqdefault.jpg)
 * [24 сент. 2013 г] Финансовая математика. Чем занимаются гении на бирже?»
 
 https://www.youtube.com/watch?v=5_cjhSXSGBY
