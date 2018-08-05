@@ -7,6 +7,7 @@ Apache Mesos — это централизованная отказоустой�
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
 * Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
 * How Uber scaled its Real Time Infrastructure to [Trillion events] per day
+
 https://www.youtube.com/watch?v=K-fI2BeTLkk
 
 ![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
