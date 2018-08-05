@@ -3,6 +3,8 @@
 Apache Mesos — это централизованная отказоустойчивая система управления кластером, разработанная для распределенных компьютерных сред c целью обеспечения изоляции ресурсов и удобного управления кластерами подчиненных узлов
 
 Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день используя Экосистему Hadoop & Spark
+Как Uber Engineering проводит аудит Kafka
+https://docs.google.com/document/d/1AvkvJjnbjGmMY0GnnwrCGPdhBEfEeG5khL1N9iYwQaE/
 
 ![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
