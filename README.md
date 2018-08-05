@@ -6,6 +6,7 @@ Apache Mesos — это централизованная отказоустой�
 ![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
 ![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
 ![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
+![Image alt](https://i.pinimg.com/originals/a3/5b/e6/a35be6015a30a30c578fce916ba842df.png)
 
 * ebuilds Hive для Gentoo. Сборка из исходников Hive в Gentoo : : BigdataOverlay
 
