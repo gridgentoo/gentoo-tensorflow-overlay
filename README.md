@@ -1,7 +1,7 @@
 # Experimental Gentoo overlay with primary focus on AI frameworks, GPU acceleration, BigData and high-performance Java.
 
 Apache Mesos — это централизованная отказоустойчивая система управления кластером, разработанная для распределенных компьютерных сред c целью обеспечения изоляции ресурсов и удобного управления кластерами подчиненных узлов
-
+![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
 ![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
 ![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
 ![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
