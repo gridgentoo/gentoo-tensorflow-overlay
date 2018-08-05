@@ -23,6 +23,7 @@ https://github.com/gridgentoo/uReplicatorUber
 
 https://github.com/gridgentoo/uReplicatorUber
 
+[uber.com] uReplicator: Uber Engineering’s Robust Kafka Replicator
 https://docs.google.com/document/d/1jxMeu3ctc5UD2MfaurShfi1BiNwtLeUvzkw2VEye3II/edit#heading=h.v1nll5cd1ml6
 
 
