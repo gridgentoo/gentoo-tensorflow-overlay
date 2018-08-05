@@ -18,7 +18,10 @@ https://github.com/gridgentoo/uReplicatorUber
 ![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
-[uber.com] uReplicator: Uber Engineering’s Robust Kafka Replicator
+
+[github.com] uReplicator: Uber Engineering’s Robust Kafka Replicator 
+
+https://github.com/gridgentoo/uReplicatorUber
 
 https://docs.google.com/document/d/1jxMeu3ctc5UD2MfaurShfi1BiNwtLeUvzkw2VEye3II/edit#heading=h.v1nll5cd1ml6
 
