@@ -8,7 +8,6 @@ https://docs.google.com/document/d/1AvkvJjnbjGmMY0GnnwrCGPdhBEfEeG5khL1N9iYwQaE/
 
 ![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
-![Image alt](https://qph.fs.quoracdn.net/main-qimg-d966802e10a28e1b03271eb7a427b678)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
 ![Image alt](https://cdn-images-1.medium.com/max/1600/1*FYR3tjCt8qcpCm-AHZORsQ.png)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/12/kafka_pipeline.png)
