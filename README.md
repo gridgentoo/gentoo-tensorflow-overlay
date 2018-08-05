@@ -3,6 +3,8 @@
 Apache Mesos — это централизованная отказоустойчивая система управления кластером, разработанная для распределенных компьютерных сред c целью обеспечения изоляции ресурсов и удобного управления кластерами подчиненных узлов
 
 ![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
+![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
+
 
 * ebuilds  Apache Mesos  для Gentoo. Установка  Apache Mesos в Gentoo 
 
