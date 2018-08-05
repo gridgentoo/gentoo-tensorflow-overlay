@@ -6,7 +6,7 @@ Apache Mesos — это централизованная отказоустой�
 ![Image alt](https://commons.bmstu.wiki/images/8/8e/Mesosarch.jpg)
 ![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
 
-* ebuilds  Apache Mesos  для Gentoo. Установка  Apache Mesos в Gentoo 
+* ebuilds  Apache Mesos  для Gentoo. Сборка из исходников Apache Mesos в Gentoo 
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/sys-cluster/mesos/mesos-1.5.0.ebuild
 
@@ -189,7 +189,7 @@ src_install() {
 ```
 
 
-* ebuilds Spark для Gentoo
+* ebuilds Spark для Gentoo. Сборка из исходников Spark в Gentoo  
 
 emerge sys-cluster/apache-spark-bin
 
@@ -270,7 +270,7 @@ EOF
 }
 ```
 
-* ebuilds Zookeeper для Gentoo
+* ebuilds Zookeeper для Gentoo. Сборка из исходников Zookeeper в Gentoo 
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/sys-cluster/apache-zookeeper-bin/apache-zookeeper-bin-3.4.10.ebuild
 
@@ -366,7 +366,7 @@ src_install() {
 	doenvd 99"${PN}" || die "doenvd failed"
 }
 ```
-* ebuilds  Caffe для Gentoo. Установка Caffe в Gentoo : : BigdataOverlay
+* ebuilds  Caffe для Gentoo. Сборка из исходников Caffe в Gentoo : : BigdataOverlay
 
 https://github.com/gridgentoo/GentooCaffe/blob/master/dev-libs/caffe/caffe-9999.ebuild
 
@@ -519,8 +519,7 @@ src_install() {
 }
 ```
 
-* ebuilds hadoop для Gentoo
-
+* ebuilds hadoop для Gentoo. Сборка из исходников Hadoop в Gentoo : : BigdataOverlay
 emerge sys-cluster/apache-hadoop-bin
 
 https://github.com/gridgentoo/GentooHadoop/blob/master/portage/sys-cluster/apache-hadoop-bin/apache-hadoop-bin-2.7.1.ebuild
