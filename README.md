@@ -1,5 +1,6 @@
 # Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo. Experimental Gentoo overlay with primary focus on AI frameworks, GPU acceleration, BigData and high-performance Java.
 
+
 Apache Mesos — это централизованная отказоустойчивая система управления кластером, разработанная для распределенных компьютерных сред c целью обеспечения изоляции ресурсов и удобного управления кластерами подчиненных узлов
 
 Как Uber масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день используя Экосистему Hadoop & Spark
