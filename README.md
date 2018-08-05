@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=K-fI2BeTLkk
 ![Image alt](https://i.pinimg.com/originals/a3/5b/e6/a35be6015a30a30c578fce916ba842df.png)
 
 
-* [16 окт. 2017 г] Открытие встречи «Яндекс изнутри», посвященной мобильной разработке. [Ильзар Ахмедов]
+* [16 окт. 2017 г] Коллега по java Ильзар Ахмедов «Яндекс изнутри», посвященной мобильной разработке.
 
 https://www.youtube.com/watch?v=m6VTnYRC0C4
 
