@@ -2,6 +2,8 @@
 
 Apache Mesos — это централизованная отказоустойчивая система управления кластером, разработанная для распределенных компьютерных сред c целью обеспечения изоляции ресурсов и удобного управления кластерами подчиненных узлов
 
+![Image alt](https://clouddocs.f5.com/training/community/containers/html/_images/Mesos_Architecture.png)
+
 * ebuilds  Apache Mesos  для Gentoo. Установка  tensorflow в Gentoo 
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/sys-cluster/mesos/mesos-1.5.0.ebuild
