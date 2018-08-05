@@ -125,6 +125,7 @@ emerge sys-cluster/apache-spark-bin
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/sys-cluster/apache-spark-bin/apache-spark-bin-2.1.1.ebuild
 
 * ebuilds Zookeeper для Gentoo
+https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/sys-cluster/apache-zookeeper-bin/apache-zookeeper-bin-3.4.10.ebuild
 
 ```
 # Copyright 1999-2017 Gentoo Foundation
