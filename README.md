@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=K-fI2BeTLkk
 ![Image alt](https://commons.bmstu.wiki/images/1/10/Mesos_architecture.png)
 ![Image alt](https://i.pinimg.com/originals/a3/5b/e6/a35be6015a30a30c578fce916ba842df.png)
 
+* [16 окт. 2017 г] Открытие встречи «Яндекс изнутри», посвященной мобильной разработке в компании. [Ильзар Ахмедов]
+https://www.youtube.com/watch?v=m6VTnYRC0C4
+
 * ebuilds Hive для Gentoo. Сборка из исходников Hive в Gentoo : : BigdataOverlay
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/dev-db/apache-hive-bin/apache-hive-bin-2.1.1.ebuild
