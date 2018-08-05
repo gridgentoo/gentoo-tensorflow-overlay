@@ -19,4 +19,5 @@ emerge sys-cluster/apache-spark-bin
 https://github.com/gridgentoo/GentooHadoop/blob/master/portage/sys-cluster/apache-spark-bin/apache-spark-bin-1.5.0.ebuild
 
 * ebuilds Zookeeper для Gentoo
+
 https://github.com/gridgentoo/GentooZookeeper/blob/master/sys-cluster/apache-zookeeper/apache-zookeeper-3.3.3.eb
