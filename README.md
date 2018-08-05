@@ -81,7 +81,7 @@ src_install() {
 }
 ```
 
-* ebuilds  tensorflow  для Gentoo. Установка  tensorflow в Gentoo 
+* ebuilds  tensorflow  для Gentoo. Сборка из исходников Tensorflow в Gentoo : : BigdataOverlay 
 
 https://github.com/gridgentoo/gentoo-tensorflow-overlay/blob/master/ai-frameworks/tensorflow/tensorflow-9999.ebuild
 
@@ -520,6 +520,7 @@ src_install() {
 ```
 
 * ebuilds hadoop для Gentoo. Сборка из исходников Hadoop в Gentoo : : BigdataOverlay
+
 emerge sys-cluster/apache-hadoop-bin
 
 https://github.com/gridgentoo/GentooHadoop/blob/master/portage/sys-cluster/apache-hadoop-bin/apache-hadoop-bin-2.7.1.ebuild
