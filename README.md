@@ -10,6 +10,9 @@ Apache Mesos — это централизованная отказоустой�
 
 https://docs.google.com/document/d/1AvkvJjnbjGmMY0GnnwrCGPdhBEfEeG5khL1N9iYwQaE/
 
+[github.com] uReplicator: Uber Engineering’s Robust Kafka Replicator 
+https://github.com/gridgentoo/uReplicatorUber
+
 ![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/07/TechStackStorageOverview.png)
 ![Image alt](http://eng.uber.com/wp-content/uploads/2016/08/image00.png)
